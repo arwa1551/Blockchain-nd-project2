@@ -59,3 +59,6 @@ for (var i = 0; i < inducedErrorBlocks.length; i++) {
 ```
 blockchain.validateChain();
 ```
+### Bugs and Issues 
+
+Have a bug or an issue with this project? Open [new issue here](https://github.com/arwa1551/Blockchain-nd-project2/issues) on GitHub
